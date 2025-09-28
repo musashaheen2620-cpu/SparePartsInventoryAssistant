@@ -1,4 +1,4 @@
-Denne kode bruges til at hjælpe brugeren med at finde reservedele i et lille lager:
+Denne kode bruges til at hjælpe brugeren med at finde reservedele i et lager:
 
 - Når programmet starter, som er der en velkomstbesked: "Hej. Welcome to the spare parts inventory!"
 - Også bliver brugeren også spurgt om hvilken part brugeren mangler: "Which part do you need?"
